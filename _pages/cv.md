@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA, 2004
-* Ph.D in Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA, 2010
-  * **Advisor**: Naomi C. Chesler
-  * **Doctoral Dissertation**: “Pulmonary physiology and pathophysiology in isolated mouse lungs: use of pressure-flow relationships to link pulmonary vascular function to pulmonary vascular mechanics and structure”
+* 2004 **B.S. in Biomedical Engineering**, University of Wisconsin – Madison, Madison, WI, USA
+* 2010 **Ph.D in Biomedical Engineering**, University of Wisconsin – Madison, Madison, WI, USA
+  - *Advisor*: Naomi C. Chesler
+  - *Doctoral Dissertation*: “Pulmonary physiology and pathophysiology in isolated mouse lungs: use of pressure-flow relationships to link pulmonary vascular function to pulmonary vascular mechanics and structure”
 
 Chronology of Employment
 ======
 * 9/04 – 5/06: **Teaching Assistant**, University of Wisconsin-Madison, Madison, WI, USA
-  *	*Classes*: Introduction to Biomechanics (Fall 2004, 2005 & 2006), Introduction to Bioinstrumentation (Spring 2005), and Biofluidics (Spring 2005 & 2006)
+  -	*Classes*: Introduction to Biomechanics (Fall 2004, 2005 & 2006), Introduction to Bioinstrumentation (Spring 2005), and Biofluidics (Spring 2005 & 2006)
 
 * 6/05 – 8/10: **Research Assistant**, Department of Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA. 
   - *Advisor and  Mentor*: Naomi C. Chesler
@@ -28,10 +28,10 @@ Chronology of Employment
   - *Class*: Biofluidics
 
 * 3/11 – 3/13: **Post-doctoral Researcher**, Department of Physiology, Université Libré de Bruxelles, Brussels, Belgium. 
-  * *Mentor*: Robert Naeije
+  - *Mentor*: Robert Naeije
 
 * 6/13 – 7/16: **Post-doctoral Scholar**, Pittsburgh Heart, Lung, Blood and Vascular Medicine Institute, University of Pittsburgh, Pittsburgh, PA, USA. 
-  * *Mentors*: Mark T. Gladwin and Marc A. Simon
+  - *Mentors*: Mark T. Gladwin and Marc A. Simon
 
 * 10/16 - : **Assistant Professor**, Medicine, Division of Translational and Regenerative Medicine, Department of Medicine, University of Arizona
 
