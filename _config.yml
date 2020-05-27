@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rebecca Vanderpool"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor, Division of Translational and Regenerative Medicine, College of Medicine, Department of Biomedical Engineering, College of Engineering"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=vanerpool+r"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6038-0568"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
