@@ -22,10 +22,10 @@ Chronology of Employment
   *	*Classes*: Introduction to Biomechanics (Fall 2004, 2005 & 2006), Introduction to Bioinstrumentation (Spring 2005), and Biofluidics (Spring 2005 & 2006)
 
 * 6/05 – 8/10: **Research Assistant**, Department of Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA. 
-  * *Advisor and  Mentor*: Naomi C. Chesler
+  - *Advisor and  Mentor*: Naomi C. Chesler
 
 * 1/10 - 5/10: **Teaching Assistant**, University of Wisconsin-Madison, Madison, WI, USA
-  * *Class*: Biofluidics
+  - *Class*: Biofluidics
 
 * 3/11 – 3/13: **Post-doctoral Researcher**, Department of Physiology, Université Libré de Bruxelles, Brussels, Belgium. 
   * *Mentor*: Robert Naeije
@@ -49,13 +49,15 @@ Honors and Awards
 
 Service/Outreach
 ======
+
 Local/state outreach
 ------
 * 2018 - 	Faculty Mentor, University of Arizona Global Health Competition
 * 2019 -	Facilitator, SEA Women in Engineering Today!, Create a Microscope out of Paper
 * 2019 - 	Member, Executive Committee, ResBaz Arizona
 
-- National/international outreach and membership
+National/international outreach and membership
+------
 * 2003 - 	Member, Tau Beta Pi
 * 2006 - 	Member, Alpha Omega Epsilon (Founding member of the Omicron chapter)
 * 2008 -	Member, American Thoracic Society
