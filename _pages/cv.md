@@ -18,24 +18,24 @@ Education
 
 Chronology of Employment
 ======
-* 9/04 – 5/06: Teaching Assistant, University of Wisconsin-Madison, Madison, WI, USA
-  *	Classes: Introduction to Biomechanics (Fall 2004, 2005 & 2006), Introduction to Bioinstrumentation (Spring 2005), and Biofluidics (Spring 2005 & 2006)
+* 9/04 – 5/06: **Teaching Assistant**, University of Wisconsin-Madison, Madison, WI, USA
+  *	*Classes*: Introduction to Biomechanics (Fall 2004, 2005 & 2006), Introduction to Bioinstrumentation (Spring 2005), and Biofluidics (Spring 2005 & 2006)
 
-* 6/05 – 8/10: Research Assistant, Department of Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA. 
-  * **Advisor and  Mentor**: Naomi C. Chesler
+* 6/05 – 8/10: **Research Assistant**, Department of Biomedical Engineering, University of Wisconsin – Madison, Madison, WI, USA. 
+  * *Advisor and  Mentor*: Naomi C. Chesler
 
-* 1/10 - 5/10: Teaching Assistant, University of Wisconsin-Madison, Madison, WI, USA
-  * **Class**: Biofluidics
+* 1/10 - 5/10: **Teaching Assistant**, University of Wisconsin-Madison, Madison, WI, USA
+  * *Class*: Biofluidics
 
-* 3/11 – 3/13: Post-doctoral Researcher, Department of Physiology, Université Libré de Bruxelles, Brussels, Belgium. 
-  * **Mentor**: Robert Naeije
+* 3/11 – 3/13: **Post-doctoral Researcher**, Department of Physiology, Université Libré de Bruxelles, Brussels, Belgium. 
+  * *Mentor*: Robert Naeije
 
-* 6/13 – 7/16: Post-doctoral Scholar, Pittsburgh Heart, Lung, Blood and Vascular Medicine Institute, University of Pittsburgh, Pittsburgh, PA, USA. 
-  * **Mentors**: Mark T. Gladwin and Marc A. Simon
+* 6/13 – 7/16: **Post-doctoral Scholar**, Pittsburgh Heart, Lung, Blood and Vascular Medicine Institute, University of Pittsburgh, Pittsburgh, PA, USA. 
+  * *Mentors*: Mark T. Gladwin and Marc A. Simon
 
-* 10/16 - : Assistant Professor, Medicine, Division of Translational and Regenerative Medicine, Department of Medicine, University of Arizona
+* 10/16 - : **Assistant Professor**, Medicine, Division of Translational and Regenerative Medicine, Department of Medicine, University of Arizona
 
-* 10/16- : Research Assistant Professor, Department of Biomedical Engineering, University of Arizona
+* 10/16- : **Research Assistant Professor**, Department of Biomedical Engineering, University of Arizona
 
   
 Honors and Awards
