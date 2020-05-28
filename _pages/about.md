@@ -10,7 +10,7 @@ redirect_from:
 
 Research in the Vanderpool Lab utilizes diverse data sources including pulmonary hemodynamics from the cardiac catheterization laboratory, pulmonary function testing as well as advanced analysis of imaging and hemodynamic data to investigate the associations between right ventricular contractile reserve surrogates and right ventricular (RV) function. We focus on quantification of right ventricular function from pressure and imaging data, assessment of steady and pulsatile pulmonary hemodynamics, and modeling normal and abnormal hemodynamics in patients with pulmonary hypertension. Our long-term goal is to develop novel biomarkers of right ventricular dysfunction. 
 
-<img src="/images/Research_Interests.png" alt="Research Interests" width=150>
+<img src="/images/Research_Interests.png" alt="Research Interests" width=500>
 
 ![Research Interests](/images/Research_Interests.png){: height="20"}
 
