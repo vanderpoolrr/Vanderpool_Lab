@@ -2,7 +2,7 @@
 title: "Differential effects of integrin-linked kinase inhibitor Cpd22 on severe pulmonary hypertension in male and female rats." 
 collection: publications 
 permalink: /publication/2020-02-12-vanderpool-8 
-excerpt: '<b>Abstract</b>Pulmonary arterial hypertension (PAH) is a progressive fatal disease with no cure. Inhibition of integrin-linked kinase (ILK) reverses experimental pulmonary hypertension (PH) in male mice, but its effect on severe experimental PH in either male or female animals is unknown. We examined effects of ILK [...]' 
+excerpt: '<b>Abstract: </b>Pulmonary arterial hypertension (PAH) is a progressive fatal disease with no cure. Inhibition of integrin-linked kinase (ILK) reverses experimental pulmonary hypertension (PH) in male mice, but its effect on severe experimental PH in either male or female animals is unknown. We examined effects of ILK [...]' 
 date: 2020-02-12 
 venue: 'Pulmonary circulation' 
 paperurl: 'https://doi.org/10.1177/2045894019898593' 

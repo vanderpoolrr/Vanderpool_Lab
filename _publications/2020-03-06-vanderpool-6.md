@@ -2,7 +2,7 @@
 title: "Direct eNAMPT Involvement in Pulmonary Hypertension and Vascular Remodeling: Transcriptional Regulation by SOX and HIF2alpha." 
 collection: publications 
 permalink: /publication/2020-03-06-vanderpool-6 
-excerpt: '<b>Abstract</b>RATIONALE: We previously demonstrated involvement of nicotinamide phosphoribosyl-transferase (NAMPT) in pulmonary arterial hypertension (PAH) and now examine NAMPT regulation and extracellular NAMPT's role in PAH vascular remodeling. METHODS: NAMPT transcription and protein expression in human lung endothelial cell (EC) was assessed in response to [...]' 
+excerpt: '<b>Abstract: </b>RATIONALE: We previously demonstrated involvement of nicotinamide phosphoribosyl-transferase (NAMPT) in pulmonary arterial hypertension (PAH) and now examine NAMPT regulation and extracellular NAMPT's role in PAH vascular remodeling. METHODS: NAMPT transcription and protein expression in human lung endothelial cell (EC) was assessed in response to [...]' 
 date: 2020-03-06 
 venue: 'American journal of respiratory cell and molecular biology' 
 paperurl: 'https://doi.org/10.1165/rcmb.2019-0164OC' 

@@ -2,7 +2,7 @@
 title: "When it all comes down to pressure: right ventricular ejection fraction at cardiac catheterisation." 
 collection: publications 
 permalink: /publication/2020-03-12-vanderpool-5 
-excerpt: '<b>Abstract</b> [...]' 
+excerpt: '<b>Abstract: </b> [...]' 
 date: 2020-03-12 
 venue: 'The European respiratory journal' 
 paperurl: 'https://doi.org/1902341' 

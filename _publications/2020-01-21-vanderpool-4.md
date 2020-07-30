@@ -2,7 +2,7 @@
 title: "Clinical implications of idiopathic pulmonary arterial hypertension phenotypes defined by cluster analysis." 
 collection: publications 
 permalink: /publication/2020-01-21-vanderpool-4 
-excerpt: '<b>Abstract</b>BACKGROUND: >Despite advances in drug development, life expectancy in idiopathic pulmonary arterial hypertension (IPAH) remains unacceptable. Contemporary IPAH characterization is based on criteria that may not adequately capture disease heterogeneity and may be proposed as a possible explanation for why patient outcome is still unfavorable. The [...]' 
+excerpt: '<b>Abstract: </b>BACKGROUND: >Despite advances in drug development, life expectancy in idiopathic pulmonary arterial hypertension (IPAH) remains unacceptable. Contemporary IPAH characterization is based on criteria that may not adequately capture disease heterogeneity and may be proposed as a possible explanation for why patient outcome is still unfavorable. The [...]' 
 date: 2020-01-21 
 venue: 'The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation' 
 paperurl: 'https://doi.org/S1053-2498(20)30015-2' 

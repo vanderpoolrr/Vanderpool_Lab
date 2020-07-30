@@ -2,7 +2,7 @@
 title: "Tetramethylpyrazine: A promising drug for the treatment of pulmonary hypertension." 
 collection: publications 
 permalink: /publication/2020-04-27-vanderpool-1 
-excerpt: '<b>Abstract</b>BACKGROUND AND PURPOSE: Tetramethylpyrazine (TMP) was originally isolated from the traditional Chinese herb ligusticum and the fermented Japanese food natto and has since been synthesized. TMP has a long history of beneficial effects in the treatment of many cardiovascular diseases. Here we have evaluated the therapeutic [...]' 
+excerpt: '<b>Abstract: </b>BACKGROUND AND PURPOSE: Tetramethylpyrazine (TMP) was originally isolated from the traditional Chinese herb ligusticum and the fermented Japanese food natto and has since been synthesized. TMP has a long history of beneficial effects in the treatment of many cardiovascular diseases. Here we have evaluated the therapeutic [...]' 
 date: 2020-04-27 
 venue: 'British journal of pharmacology' 
 paperurl: 'https://doi.org/10.1111/bph.15000' 

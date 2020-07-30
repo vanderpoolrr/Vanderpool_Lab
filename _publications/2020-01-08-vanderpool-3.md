@@ -2,7 +2,7 @@
 title: "Association of right atrial conduit phase with right ventricular lusitropic function in pulmonary hypertension." 
 collection: publications 
 permalink: /publication/2020-01-08-vanderpool-3 
-excerpt: '<b>Abstract</b>Alterations of right atrial (RA) function have emerged as determinants of outcome in pulmonary hypertension (PH). We aimed to clarify the pathophysiological associations of impaired RA conduit function with right ventricular (RV) function in PH. In 51 patients with PH (48 with pulmonary arterial hypertension), RA [...]' 
+excerpt: '<b>Abstract: </b>Alterations of right atrial (RA) function have emerged as determinants of outcome in pulmonary hypertension (PH). We aimed to clarify the pathophysiological associations of impaired RA conduit function with right ventricular (RV) function in PH. In 51 patients with PH (48 with pulmonary arterial hypertension), RA [...]' 
 date: 2020-01-08 
 venue: 'The international journal of cardiovascular imaging' 
 paperurl: 'https://doi.org/10.1007/s10554-019-01763-x' 

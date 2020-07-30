@@ -2,7 +2,7 @@
 title: "Genetic Admixture and Survival in Diverse Populations with Pulmonary Arterial Hypertension." 
 collection: publications 
 permalink: /publication/2020-01-09-vanderpool-9 
-excerpt: '<b>Abstract</b>RATIONALE: Limited information is available on racial/ethnic differences in pulmonary arterial hypertension (PAH). OBJECTIVES: Determine effects of race/ethnicity and ancestry on mortality and disease outcomes in diverse patients with PAH. METHODS: Group 1 PAH patients were included from two national registries with genome-wide [...]' 
+excerpt: '<b>Abstract: </b>RATIONALE: Limited information is available on racial/ethnic differences in pulmonary arterial hypertension (PAH). OBJECTIVES: Determine effects of race/ethnicity and ancestry on mortality and disease outcomes in diverse patients with PAH. METHODS: Group 1 PAH patients were included from two national registries with genome-wide [...]' 
 date: 2020-01-09 
 venue: 'American journal of respiratory and critical care medicine' 
 paperurl: 'https://doi.org/10.1164/rccm.201907-1447OC' 

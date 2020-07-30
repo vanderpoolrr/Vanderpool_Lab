@@ -2,7 +2,7 @@
 title: "Treatment With Treprostinil and Metformin Normalizes Hyperglycemia and Improves Cardiac Function in Pulmonary Hypertension Associated With Heart Failure With Preserved Ejection Fraction." 
 collection: publications 
 permalink: /publication/2020-04-09-vanderpool-2 
-excerpt: '<b>Abstract</b>OBJECTIVE: Pulmonary hypertension (PH) due to left heart disease (group 2), especially in the setting of heart failure with preserved ejection fraction (HFpEF), is the most common cause of PH worldwide; however, at present, there is no proven effective therapy available for its treatment. PH-HFpEF [...]' 
+excerpt: '<b>Abstract: </b>OBJECTIVE: Pulmonary hypertension (PH) due to left heart disease (group 2), especially in the setting of heart failure with preserved ejection fraction (HFpEF), is the most common cause of PH worldwide; however, at present, there is no proven effective therapy available for its treatment. PH-HFpEF [...]' 
 date: 2020-04-09 
 venue: 'Arteriosclerosis, thrombosis, and vascular biology' 
 paperurl: 'https://doi.org/10.1161/ATVBAHA.119.313883' 
