@@ -2,7 +2,7 @@
 title: "Treatment With Treprostinil and Metformin Normalizes Hyperglycemia and Improves Cardiac Function in Pulmonary Hypertension Associated With Heart Failure With Preserved Ejection Fraction." 
 collection: publications 
 permalink: /publication/2020-04-09-vanderpool-2 
-excerpt: 'OBJECTIVE: Pulmonary hypertension (PH) due to left heart disease (group 2), especially in the setting of heart failure with preserved ejection fraction (HFpEF), is the most common cause of PH worldwide; however, at present, there is no proven effective therapy available for its treatment. PH-HFpEF [...]' 
+excerpt: '<b>Abstract</b>OBJECTIVE: Pulmonary hypertension (PH) due to left heart disease (group 2), especially in the setting of heart failure with preserved ejection fraction (HFpEF), is the most common cause of PH worldwide; however, at present, there is no proven effective therapy available for its treatment. PH-HFpEF [...]' 
 date: 2020-04-09 
 venue: 'Arteriosclerosis, thrombosis, and vascular biology' 
 paperurl: 'https://doi.org/10.1161/ATVBAHA.119.313883' 
@@ -12,4 +12,4 @@ Abstract:  OBJECTIVE: Pulmonary hypertension (PH) due to left heart disease (gro
  
 [Paper Link](https://doi.org/10.1161/ATVBAHA.119.313883) 
  
-Recommended citation:  Wang L, Halliday G, Huot JR, Satoh T, Baust JJ, Fisher A, Cook T, Hu J, Avolio T, Goncharov DA, Bai Y, Vanderpool RR, Considine RV, Bonetto A, Tan J, Bachman TN, Sebastiani A, McTiernan CF, Mora AL, Machado RF, Goncharova EA, Gladwin MT, Lai YC. <i>Treatment With Treprostinil and Metformin Normalizes Hyperglycemia and Improves Cardiac Function in Pulmonary Hypertension Associated With Heart Failure With Preserved Ejection Fraction.</i> Arterioscler Thromb Vasc Biol. 2020 Jun;40(6):1543-1558. doi: 10.1161/ATVBAHA.119.313883. Epub 2020 Apr 9. 
+<b>Recommended citation</b>:  Wang L, Halliday G, Huot JR, Satoh T, Baust JJ, Fisher A, Cook T, Hu J, Avolio T, Goncharov DA, Bai Y, Vanderpool RR, Considine RV, Bonetto A, Tan J, Bachman TN, Sebastiani A, McTiernan CF, Mora AL, Machado RF, Goncharova EA, Gladwin MT, Lai YC. <i>Treatment With Treprostinil and Metformin Normalizes Hyperglycemia and Improves Cardiac Function in Pulmonary Hypertension Associated With Heart Failure With Preserved Ejection Fraction.</i> Arterioscler Thromb Vasc Biol. 2020 Jun;40(6):1543-1558. doi: 10.1161/ATVBAHA.119.313883. Epub 2020 Apr 9. 

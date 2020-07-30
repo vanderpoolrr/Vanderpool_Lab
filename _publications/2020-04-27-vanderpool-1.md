@@ -2,7 +2,7 @@
 title: "Tetramethylpyrazine: A promising drug for the treatment of pulmonary hypertension." 
 collection: publications 
 permalink: /publication/2020-04-27-vanderpool-1 
-excerpt: 'BACKGROUND AND PURPOSE: Tetramethylpyrazine (TMP) was originally isolated from the traditional Chinese herb ligusticum and the fermented Japanese food natto and has since been synthesized. TMP has a long history of beneficial effects in the treatment of many cardiovascular diseases. Here we have evaluated the therapeutic [...]' 
+excerpt: '<b>Abstract</b>BACKGROUND AND PURPOSE: Tetramethylpyrazine (TMP) was originally isolated from the traditional Chinese herb ligusticum and the fermented Japanese food natto and has since been synthesized. TMP has a long history of beneficial effects in the treatment of many cardiovascular diseases. Here we have evaluated the therapeutic [...]' 
 date: 2020-04-27 
 venue: 'British journal of pharmacology' 
 paperurl: 'https://doi.org/10.1111/bph.15000' 
@@ -12,4 +12,4 @@ Abstract:  BACKGROUND AND PURPOSE: Tetramethylpyrazine (TMP) was originally isol
  
 [Paper Link](https://doi.org/10.1111/bph.15000) 
  
-Recommended citation:  Chen Y, Lu W, Yang K, Duan X, Li M, Chen X, Zhang J, Kuang M, Liu S, Wu X, Zou G, Liu C, Hong C, He W, Liao J, Hou C, Zhang Z, Zheng Q, Chen J, Zhang N, Tang H, Vanderpool RR, Desai AA, Rischard F, Black SM, Garcia JGN, Makino A, Yuan JX, Zhong N, Wang J. <i>Tetramethylpyrazine: A promising drug for the treatment of pulmonary hypertension.</i> Br J Pharmacol. 2020 Jun;177(12):2743-2764. doi: 10.1111/bph.15000. Epub 2020 Apr 27. 
+<b>Recommended citation</b>:  Chen Y, Lu W, Yang K, Duan X, Li M, Chen X, Zhang J, Kuang M, Liu S, Wu X, Zou G, Liu C, Hong C, He W, Liao J, Hou C, Zhang Z, Zheng Q, Chen J, Zhang N, Tang H, Vanderpool RR, Desai AA, Rischard F, Black SM, Garcia JGN, Makino A, Yuan JX, Zhong N, Wang J. <i>Tetramethylpyrazine: A promising drug for the treatment of pulmonary hypertension.</i> Br J Pharmacol. 2020 Jun;177(12):2743-2764. doi: 10.1111/bph.15000. Epub 2020 Apr 27. 

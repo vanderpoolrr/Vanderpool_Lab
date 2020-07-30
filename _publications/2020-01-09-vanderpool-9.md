@@ -2,7 +2,7 @@
 title: "Genetic Admixture and Survival in Diverse Populations with Pulmonary Arterial Hypertension." 
 collection: publications 
 permalink: /publication/2020-01-09-vanderpool-9 
-excerpt: 'RATIONALE: Limited information is available on racial/ethnic differences in pulmonary arterial hypertension (PAH). OBJECTIVES: Determine effects of race/ethnicity and ancestry on mortality and disease outcomes in diverse patients with PAH. METHODS: Group 1 PAH patients were included from two national registries with genome-wide [...]' 
+excerpt: '<b>Abstract</b>RATIONALE: Limited information is available on racial/ethnic differences in pulmonary arterial hypertension (PAH). OBJECTIVES: Determine effects of race/ethnicity and ancestry on mortality and disease outcomes in diverse patients with PAH. METHODS: Group 1 PAH patients were included from two national registries with genome-wide [...]' 
 date: 2020-01-09 
 venue: 'American journal of respiratory and critical care medicine' 
 paperurl: 'https://doi.org/10.1164/rccm.201907-1447OC' 
@@ -12,4 +12,4 @@ Abstract:  RATIONALE: Limited information is available on racial/ethnic differen
  
 [Paper Link](https://doi.org/10.1164/rccm.201907-1447OC) 
  
-Recommended citation:  Karnes JH, Wiener HW, Schwantes-An TH, Natarajan B, Sweatt AJ, Chaturvedi A, Arora A, Batai K, Nair V, Steiner HE, Giles JB, Yu J, Hosseini M, Pauciulo MW, Lutz KA, Coleman AW, Feldman J, Vanderpool R, Tang H, Garcia JGN, Yuan JX, Kittles R, de Jesus Perez V, Zamanian RT, Rischard F, Tiwari HK, Nichols WC, Benza RL, Desai AA. <i>Genetic Admixture and Survival in Diverse Populations with Pulmonary Arterial Hypertension.</i> Am J Respir Crit Care Med. 2020 Jan 9. doi: 10.1164/rccm.201907-1447OC. 
+<b>Recommended citation</b>:  Karnes JH, Wiener HW, Schwantes-An TH, Natarajan B, Sweatt AJ, Chaturvedi A, Arora A, Batai K, Nair V, Steiner HE, Giles JB, Yu J, Hosseini M, Pauciulo MW, Lutz KA, Coleman AW, Feldman J, Vanderpool R, Tang H, Garcia JGN, Yuan JX, Kittles R, de Jesus Perez V, Zamanian RT, Rischard F, Tiwari HK, Nichols WC, Benza RL, Desai AA. <i>Genetic Admixture and Survival in Diverse Populations with Pulmonary Arterial Hypertension.</i> Am J Respir Crit Care Med. 2020 Jan 9. doi: 10.1164/rccm.201907-1447OC. 

@@ -2,7 +2,7 @@
 title: "Direct eNAMPT Involvement in Pulmonary Hypertension and Vascular Remodeling: Transcriptional Regulation by SOX and HIF2alpha." 
 collection: publications 
 permalink: /publication/2020-03-06-vanderpool-6 
-excerpt: 'RATIONALE: We previously demonstrated involvement of nicotinamide phosphoribosyl-transferase (NAMPT) in pulmonary arterial hypertension (PAH) and now examine NAMPT regulation and extracellular NAMPT's role in PAH vascular remodeling. METHODS: NAMPT transcription and protein expression in human lung endothelial cell (EC) was assessed in response to [...]' 
+excerpt: '<b>Abstract</b>RATIONALE: We previously demonstrated involvement of nicotinamide phosphoribosyl-transferase (NAMPT) in pulmonary arterial hypertension (PAH) and now examine NAMPT regulation and extracellular NAMPT's role in PAH vascular remodeling. METHODS: NAMPT transcription and protein expression in human lung endothelial cell (EC) was assessed in response to [...]' 
 date: 2020-03-06 
 venue: 'American journal of respiratory cell and molecular biology' 
 paperurl: 'https://doi.org/10.1165/rcmb.2019-0164OC' 
@@ -12,4 +12,4 @@ Abstract:  RATIONALE: We previously demonstrated involvement of nicotinamide pho
  
 [Paper Link](https://doi.org/10.1165/rcmb.2019-0164OC) 
  
-Recommended citation:  Sun X, Sun BL, Babicheva A, Vanderpool R, Oita RC, Casanova N, Tang H, Gupta A, Lynn H, Gupta G, Rischard F, Sammani S, Kempf CL, Moreno-Vinasco L, Ahmed M, Camp SM, Wang J, Desai AA, Yuan JX, Garcia JGN. <i>Direct eNAMPT Involvement in Pulmonary Hypertension and Vascular Remodeling: Transcriptional Regulation by SOX and HIF2alpha.</i> Am J Respir Cell Mol Biol. 2020 Mar 6. doi: 10.1165/rcmb.2019-0164OC. 
+<b>Recommended citation</b>:  Sun X, Sun BL, Babicheva A, Vanderpool R, Oita RC, Casanova N, Tang H, Gupta A, Lynn H, Gupta G, Rischard F, Sammani S, Kempf CL, Moreno-Vinasco L, Ahmed M, Camp SM, Wang J, Desai AA, Yuan JX, Garcia JGN. <i>Direct eNAMPT Involvement in Pulmonary Hypertension and Vascular Remodeling: Transcriptional Regulation by SOX and HIF2alpha.</i> Am J Respir Cell Mol Biol. 2020 Mar 6. doi: 10.1165/rcmb.2019-0164OC. 
